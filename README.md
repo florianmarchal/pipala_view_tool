@@ -19,8 +19,9 @@ Or install it yourself as:
     $ gem install pipala_view_tool
 
 ## Usage
-
-TODO: Write usage instructions here
+```ruby
+PipalaViewTool::Renderer.copyright 'Florian Marchal', 'All rights reserved'
+```
 
 ## Development
 
